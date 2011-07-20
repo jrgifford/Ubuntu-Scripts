@@ -1,4 +1,4 @@
-# This needs to be run with super user privelges (or sudo)
+# This needs to be run with super user privileges (or sudo)
 
 apt-get update
 apt-get upgrade
